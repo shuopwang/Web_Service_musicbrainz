@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><RESULT xmlns:mb="http://musicbrainz.org/ns/mmd-1.0#">
+<RECORD>
+  <ITEM ANGIE-VAR="?artistId">23e98cd1-623a-458b-a3bc-674c24850600</ITEM>
+  <ITEM ANGIE-VAR="?albumId">620256d2-756e-4148-a6f7-fe409fd183bb</ITEM>
+  <ITEM ANGIE-VAR="?albumName">大切な物</ITEM></RECORD>
+<RECORD>
+  <ITEM ANGIE-VAR="?artistId">23e98cd1-623a-458b-a3bc-674c24850600</ITEM>
+  <ITEM ANGIE-VAR="?albumId">538cd90f-d077-4cd1-b8f7-f0dcbc8f79e5</ITEM>
+  <ITEM ANGIE-VAR="?albumName">マブルスカイ</ITEM></RECORD>
+<RECORD>
+  <ITEM ANGIE-VAR="?artistId">23e98cd1-623a-458b-a3bc-674c24850600</ITEM>
+  <ITEM ANGIE-VAR="?albumId">4534dc84-c168-465e-b6eb-0616d16678cf</ITEM>
+  <ITEM ANGIE-VAR="?albumName">ORi</ITEM></RECORD>
+<RECORD>
+  <ITEM ANGIE-VAR="?artistId">23e98cd1-623a-458b-a3bc-674c24850600</ITEM>
+  <ITEM ANGIE-VAR="?albumId">f694cbf3-485d-4bff-82ed-403c5a4f7608</ITEM>
+  <ITEM ANGIE-VAR="?albumName">Wing Hope</ITEM></RECORD></RESULT>
